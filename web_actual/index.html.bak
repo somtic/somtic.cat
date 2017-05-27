@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SomTIC - Expertes en H2H </title>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-364383-49', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+<h1>SomTIC - Cooperativa Serveis TIC - Software Lliure</h1>
+<h2>Expertes en H2H - Human to Human </h2>
+<h3>Persones que Cooperem per posar la informàtica al servei de les persones</h3>
+<p>Joomla, Wordpress, Prestashop, Woocommerce, Magento, Tryton, SugarCRM, LibreOffice, LinuxMint,
+   Drupal, Php, Gimp, Inkskape, Digikam son una petita llista del software lliure
+   que dominem i del que et podem oferir serveis TIC tant de programació, soport, formació i consultoria.
+</p>
+<p>Som un grup de persones Expertes i amb experiència en l'àmbit de les TIC, però
+   el que ens caracteritza és la nostra xarxa de contactes amb d'altres expertes en
+   matèries com el disseny gràfic o el màrketing online</p>
+   <p>Vols saber més? </p>
+   <p>Escriu a <a href="mailto:coop2540@somtic.cat">coop2540@somtic.cat</a>, Jordán.</p>
+   
+</body>
+
+</html>
